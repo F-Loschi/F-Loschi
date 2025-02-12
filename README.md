@@ -74,16 +74,24 @@
 
 <div align="center">
 
-## Conecte-se comigo no LinkedIn! 🚀
+## Conecte-se comigo! 🚀
 
 [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="200">](https://www.linkedin.com/in/felipe-silva-loschi/)
 
 </div>
 
-[![CV](https://img.shields.io/badge/Veja%20meu%20CV-4285F4?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-felipe.loschi%40ges.inatel.br-%23333?style=for-the-badge&logo=gmail)](mailto:felipe.loschi@ges.inatel.br)
+  
+  [![Email](https://img.shields.io/badge/Email-f.s.loschi%40gmail.com-%23333?style=for-the-badge&logo=gmail)](mailto:f.s.loschi@gmail.com)
+  <br>
+  
+  [![CV](https://img.shields.io/badge/Veja%20meu%20CV-4285F4?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
+
+</div>
 
 
-- **Email**: felipe.loschi@ges.inatel.br ou f.s.loschi@gmail.com
 
 <div align="center">
 
