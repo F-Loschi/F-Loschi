@@ -7,17 +7,15 @@
 
 # Eu sou o Felipe Silva Loschi 👋
 
-## Sobre Mim
+🎓 Cursando **Engenharia de Software** no **Inatel** (5° período).
 
-🎓 Atualmente cursando **Engenharia de Software** no **Instituto Nacional de Telecomunicações (Inatel)**, no 5° período.
+💻 Experiência com **C++**, **Python**, **Java**, **JavaScript**, **CSS** e **HTML**.
 
-💻 Tenho experiência com **C++**, **Python**, **Java**, **JavaScript**, **CSS**, e estou aprendendo mais sobre outras linguagens.
+📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Matemática Pura**.
 
-📚 Meu foco está nas áreas de **Ciência de Dados**, **Engenharia de Dados**, **Inteligência Artificial**, e **Matemática Pura**.
+🤝 Voluntário no **Cas@Viva**, ensinando **Algoritmos I (C++)** e **Soft Skills**.
 
-🤝 No momento, estou envolvido em **trabalho voluntário** no projeto social **Cas@Viva**, onde ensino **Algoritmos I (C++)** e **Soft Skills** para alunos do 9° ano da rede pública.
-
-🧠 Estou me aprofundando nas linguagens **Java** e **Python**.
+🧠 Aprofundando conhecimentos em **Java** e **Python**.
 
 ---
 
@@ -49,8 +47,34 @@
 
 ## Experiência
 
-- **Monitor de Matemática Aplicada à Engenharia e Cálculo 1, 2, 3** - Inatel
+- **Monitor de Matemática Aplicada à Engenharia e Cálculo 1, 2 e 3** - Inatel
 - **Trabalho Voluntário - Cas@Viva**: Ensino de Algoritmos I (C++) e Soft Skills para crianças do 9° ano da rede pública.
+
+---
+
+## Projetos Destacados 🚀
+
+Aqui estão alguns dos meus repositórios mais interessantes, que demonstram minhas habilidades em desenvolvimento e meu interesse por novas tecnologias:
+
+### 1. **[S05-Projeto-Site](https://github.com/F-Loschi/S05-ProjetoSite)**
+   - **Descrição**: Site inovador desenvolvido para melhorar a experiência dos calouros do Inatel, com mapas interativos do campus e da cidade de Santa Rita do Sapucaí. O projeto também visa gerar receita por meio de propagandas de eventos locais.
+   - **Tecnologias**: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+   - **Destaques**:
+     - Interface **simples e intuitiva** para visualização de mapas e recomendações.
+     - Integração eficiente entre **front-end e back-end**.
+     - Solução **lucrativa e inovadora** para a faculdade.
+   - **Links**:
+     - [Repositório no GitHub](https://github.com/F-Loschi/S05-ProjetoSite)
+     - [Artigo explicativo sobre o projeto](https://docs.google.com/document/d/19FtBleJCbY9gSIZscWaa2vKvF_Ir02bonP1kQQ_aMAw/edit?usp=sharing)
+
+### 2. **[C06-POO](https://github.com/F-Loschi/C06-POO)**
+   - **Descrição**: Repositório dedicado à matéria de Programação Orientada a Objetos (POO) com Java. Contém códigos, resumos e exemplos práticos de conceitos como herança, polimorfismo e encapsulamento.
+   - **Tecnologias**: ![Java](https://img.shields.io/badge/-Java-red)
+   - **Destaques**:
+     - Código **organizado e modular**, seguindo os princípios de POO.
+     - Exemplos práticos com **comentários explicativos**.
+     - Resumos detalhados das aulas para facilitar o aprendizado.
+   - **Link**: [Repositório no GitHub](https://github.com/F-Loschi/C06-POO)
 
 ---
 
@@ -82,20 +106,12 @@
 
 <div align="center">
 
-## Conecte-se comigo! 🚀
+### Conecte-se comigo! 🚀
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="200">](https://www.linkedin.com/in/felipe-silva-loschi/)
-
-</div>
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-felipe.loschi%40ges.inatel.br-%23333?style=for-the-badge&logo=gmail)](mailto:felipe.loschi@ges.inatel.br)
-  
-  [![Email](https://img.shields.io/badge/Email-f.s.loschi%40gmail.com-%23333?style=for-the-badge&logo=gmail)](mailto:f.s.loschi@gmail.com)
-  <br>
-  
-  [![CV](https://img.shields.io/badge/Veja%20meu%20CV-4285F4?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-loschi/)  
+[![Email](https://img.shields.io/badge/Email-felipe.loschi%40ges.inatel.br-%23333?style=for-the-badge&logo=gmail)](mailto:felipe.loschi@ges.inatel.br)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F-Loschi)  
+[![CV](https://img.shields.io/badge/Veja%20meu%20CV-4285F4?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
 
 </div>
 
