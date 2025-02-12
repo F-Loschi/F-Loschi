@@ -34,6 +34,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true)
 
+- **Ambientes de Desenvolvimento**:
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Falcon](https://img.shields.io/badge/Falcon-000000?style=for-the-badge&logo=falcon&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Áreas de Interesse**: Ciência de Dados, Inteligência Artificial, Engenharia de Dados, Matemática Pura
 
