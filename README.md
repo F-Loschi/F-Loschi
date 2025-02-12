@@ -98,7 +98,7 @@
 ## Algumas Estatísticas 🧑‍💻
 
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=F-Loschi&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
 
 </div>
 
