@@ -118,12 +118,17 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 <div align="center">
 
-## Algumas Estatísticas 🧑‍💻
+### 🔥 Minhas Estatísticas no GitHub 🔥
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=F-Loschi&theme=github-dark-blue&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true)  
+ 
+![GitHub Contribution](https://github-contributor-stats.vercel.app/api?username=F-Loschi&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
+![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
 
 </div>
+
 
 
 ---
