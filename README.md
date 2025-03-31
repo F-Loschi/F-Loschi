@@ -81,7 +81,6 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 ## Hobbies
 
 - 📖 Ler
-- 🧶 Crochetar
 - ⚽ Assistir aos jogos do **Real Madrid** e **Flamengo**
 
 ---
