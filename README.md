@@ -9,7 +9,7 @@
 
 🎓 Cursando **Engenharia de Software** no **Inatel** (5° período).
 
-💻 Experiência com **C++**, **Python**, **Java**, **JavaScript**, **CSS** e **HTML**.
+💻 Experiência com **C++**, **C**, **Python**, **Java**, **JavaScript**, **CSS** e **HTML**.
 
 📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Matemática Pura**.
 
