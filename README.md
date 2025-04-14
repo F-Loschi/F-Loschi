@@ -120,7 +120,8 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ### 🔥 Minhas Estatísticas no GitHub 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=F-Loschi&theme=github-dark-blue&hide_border=true)  
+![GitHub Streak](https://streak-stats.vercel.app/?user=F-Loschi&theme=github-dark-blue&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true)  
  
 ![GitHub Contribution](https://github-contributor-stats.vercel.app/api?username=F-Loschi&theme=dark)
