@@ -122,9 +122,11 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=F-Loschi&theme=github-dark-blue&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true)  
- 
-![GitHub Contribution](https://github-contributor-stats.vercel.app/api?username=F-Loschi&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true) 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=F-Loschi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
 
