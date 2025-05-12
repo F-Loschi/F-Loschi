@@ -9,11 +9,11 @@
 
 🎓 Cursando **Engenharia de Software** no **Inatel** (5° período).
 
-💻 Experiência com **C++**, **C**, **Python**, **Java**, **JavaScript**, **CSS** e **HTML**.
+💻 Experiência com **C++**, **C**, **Python**, **Java**.
 
-📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Matemática Pura**.
+📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Back-end**.
 
-🤝 Voluntário no **Cas@Viva**, ensinando **Algoritmos I (C++)** e **Soft Skills**.
+🤝 Voluntário no **Cas@Viva**, ensinando **C++** e **Soft Skills**.
 
 🧠 Aprofundando conhecimentos em **Java** e **Python**.
 
@@ -41,14 +41,14 @@
 ![Falcon](https://img.shields.io/badge/Falcon-000000?style=for-the-badge&logo=falcon&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **Áreas de Interesse**: Ciência de Dados, Inteligência Artificial, Engenharia de Dados, Matemática Pura
+- **Áreas de Interesse**: Ciência de Dados, Desenvolvimento Back-End, Inteligência Artificial, Engenharia de Dados
 
 ---
 
 ## Experiência
 
-- **Monitor de Matemática Aplicada à Engenharia e Cálculo 1, 2 e 3** - Inatel
-- **Trabalho Voluntário - Cas@Viva**: Ensino de Algoritmos I (C++) e Soft Skills para crianças do 9° ano da rede pública.
+- **Monitor de Pré Cálculo, Cálculo 1, 2 e 3** - Inatel
+- **Trabalho Voluntário - Cas@Viva**: Ensino de C++ e Soft Skills para crianças do 9° ano da rede pública.
 
 ---
 
@@ -56,16 +56,16 @@
 
 Aqui estão alguns dos meus repositórios mais interessantes, que demonstram minhas habilidades em desenvolvimento e meu interesse por novas tecnologias:
 
-### 1. **[S05-Projeto-Site](https://github.com/F-Loschi/S05-ProjetoSite)**
-   - **Descrição**: Site inovador desenvolvido para melhorar a experiência dos calouros do Inatel, com mapas interativos do campus e da cidade de Santa Rita do Sapucaí. O projeto também visa gerar receita por meio de propagandas de eventos locais.
-   - **Tecnologias**: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-   - **Destaques**:
-     - Interface **simples e intuitiva** para visualização de mapas e recomendações.
-     - Integração eficiente entre **front-end e back-end**.
-     - Solução **lucrativa e inovadora** para a faculdade.
-   - **Links**:
-     - [Repositório no GitHub](https://github.com/F-Loschi/S05-ProjetoSite)
-     - [Artigo explicativo sobre o projeto](https://docs.google.com/document/d/19FtBleJCbY9gSIZscWaa2vKvF_Ir02bonP1kQQ_aMAw/edit?usp=sharing)
+### 1. **[Projeto de Data Science](https://github.com/F-Loschi/Projetos-de-Python-DS)**
+- **Descrição**: Conjunto de notebooks e scripts desenvolvidos para explorar conceitos de Data Science, incluindo análise exploratória de dados, visualização e modelagem estatística.
+- **Tecnologias**: ![Python](https://img.shields.io/badge/-Python-blue) ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
+- **Destaques**:
+  - Análise exploratória de datasets reais
+  - Visualizações interativas e informativas
+  - Aplicação de algoritmos de machine learning supervisionado
+- **Links**:
+  - 🔗 [Repositório no GitHub](https://github.com/F-Loschi/Projetos-de-Python-DS)
+
 
 ### 2. **[C06-POO](https://github.com/F-Loschi/C06-POO)**
    - **Descrição**: Repositório dedicado à matéria de Programação Orientada a Objetos (POO) com Java. Contém códigos, resumos e exemplos práticos de conceitos como herança, polimorfismo e encapsulamento.
