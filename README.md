@@ -7,15 +7,15 @@
 
 # Eu sou o Felipe Silva Loschi 👋
 
-🎓 Cursando **Engenharia de Software** no **Inatel** (5° período).
+🎓 Cursando **Engenharia de Software** no **Inatel** (6° período).
 
-💻 Experiência com **C++**, **C**, **Python**, **Java**.
+💻 Experiência com **C++**, **Python** e **Java**.
 
 📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Back-end**.
 
-🤝 Voluntário no **Cas@Viva**, ensinando **C++** e **Soft Skills**.
+🤝 Voluntário no **Cas@Viva**, ensinando **Python**.
 
-🧠 Aprofundando conhecimentos em **Java** e **Python**.
+🧠 Aprofundando conhecimentos em **Python** e **Data Science**.
 
 ---
 
