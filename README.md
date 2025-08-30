@@ -47,7 +47,7 @@
 
 ## Experiência
 
-- **Monitor de Pré Cálculo, Cálculo 1, 2 e 3** - Inatel
+- **Monitor de Pré Cálculo, Cálculo 1, 2 e 3, Probabilidade e Processos Estocásticos, Paradigmas da Programação, Interação Homem-Máquina** - Inatel
 - **Trabalho Voluntário - Cas@Viva**: Ensino de C++ e Soft Skills para crianças do 9° ano da rede pública.
 
 ---
