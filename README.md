@@ -87,16 +87,16 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ## Objetivos
 
-- Continuar me aprofundando em **Java** e **Python**.
+- Continuar me aprofundando em **Python** e **Data Science**.
 - Manter um bom desempenho na faculdade.
-- Seguir com um **mestrado** após a graduação e, quem sabe, um dia me tornar **professor** nessas áreas que tanto amo.
+- Seguir com um **mestrado** após a graduação e continuar me aprimorando nas áreas que amo.
 
 ---
 
 ## Certificações e Cursos 🎓
 
 - **[Formação em Modelagem de Dados](https://cursos.alura.com.br/degree/certificate/33862e2d-7103-48c6-9f79-da1bfa0370cd?lang=pt_BR)** - Alura
-- **[Python para Data Science](https://cursos.alura.com.br/certificate/4462956a-c7ce-4a8d-9821-c9b54d4e2992?lang=pt_BR)** - Alura
+- **[Python para Data Science](https://cursos.alura.com.br/degree/certificate/35c86fa9-ee76-4ee1-bf64-01d717efc4fa?lang=pt_BR)** - Alura
 - **[Outros certificados da Alura(SQL, Python, etc)](https://cursos.alura.com.br/user/f-s-loschi/fullCertificate/7cb0b08975869edd5a4d5798a567afef)** - Alura
 
 ---
