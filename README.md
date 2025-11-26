@@ -122,7 +122,7 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=F-Loschi&theme=github-dark-blue&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&rank_icon=github)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
 
