@@ -122,9 +122,9 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=F-Loschi&theme=github-dark-blue&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true)
 
-![Snake animation](https://github.com/F-Loschi/F-Loschi/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=F-Loschi)](https://github.com/ryo-ma/github-profile-trophy)
 
