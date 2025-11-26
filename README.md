@@ -124,7 +124,7 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&rank_icon=github)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
+![Snake animation](https://github.com/F-Loschi/F-Loschi/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=F-Loschi)](https://github.com/ryo-ma/github-profile-trophy)
 
