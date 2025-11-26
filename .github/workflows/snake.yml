@@ -1,25 +1,30 @@
 name: Generate Snake
 
 on:
-  schedule: # executa todo dia
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: F-Loschi
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload to GitHub Pages
-        uses: jamesives/github-pages-deploy-action@v4
+      - name: Push snake animation to the output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
