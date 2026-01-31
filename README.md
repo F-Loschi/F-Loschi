@@ -7,11 +7,11 @@
 
 # Eu sou o Felipe Silva Loschi 👋
 
-🎓 Cursando **Engenharia de Software** no **Inatel** (6° período).
+🎓 Cursando **Engenharia de Software** no **Inatel** (7° período).
 
 💻 Experiência com **C++**, **Python** e **Java**.
 
-📚 Focado em **Ciência de Dados**, **Engenharia de Dados**, **IA** e **Back-end**.
+📚 Focado em **Ciência de Dados**, **Machine Learning**, **IA** e **Back-end**.
 
 🤝 Voluntário no **Cas@Viva**, ensinando **Python**.
 
@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true&hide=Jupyter%20Notebook)
 
 - **Ambientes de Desenvolvimento**:
 
