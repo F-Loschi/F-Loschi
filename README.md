@@ -30,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true)
 
 - **Ambientes de Desenvolvimento**:
 
