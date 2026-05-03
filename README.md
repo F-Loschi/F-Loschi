@@ -13,9 +13,9 @@
 
 📚 Focado em **Ciência de Dados**, **Machine Learning**, **IA** e **Back-end**.
 
-🤝 Voluntário no **Cas@Viva**, ensinando **Python**.
+🤝 Ex-voluntário no **Cas@Viva**.
 
-🧠 Aprofundando conhecimentos em **Python** e **Data Science**.
+🧠 Aprofundando conhecimentos em **Python**, **Data Science** e **Machine Learning**.
 
 ---
 
@@ -41,7 +41,7 @@
 ![Falcon](https://img.shields.io/badge/Falcon-000000?style=for-the-badge&logo=falcon&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **Áreas de Interesse**: Ciência de Dados, Desenvolvimento Back-End, Inteligência Artificial, Engenharia de Dados
+- **Áreas de Interesse**: Ciência de Dados, Inteligência Artificial, Machine Learning e Engenharia de Dados
 
 ---
 
@@ -87,7 +87,7 @@ Aqui estão alguns dos meus repositórios mais interessantes, que demonstram min
 
 ## Objetivos
 
-- Continuar me aprofundando em **Python** e **Data Science**.
+- Continuar me aprofundando em **Python**, **Data Science** e **IA**.
 - Manter um bom desempenho na faculdade.
 - Seguir com um **mestrado** após a graduação e continuar me aprimorando nas áreas que amo.
 
