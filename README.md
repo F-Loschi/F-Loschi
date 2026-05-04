@@ -1,148 +1,113 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF Hello World" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF Hello World" width="350">
+
+# Felipe Silva Loschi
+
+**Engenharia de Software · Inatel (7° período)**
+
+Apaixonado por **Data Science**, **Machine Learning** e **Engenharia de Dados** — transformando dados em decisões e código em soluções.
+
+Atualmente aprofundando conhecimentos em ML com o curso [Python do básico ao Data Science](https://www.youtube.com/@teomewhy) do Téo Calvo.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-loschi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipe.loschi@ges.inatel.br)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F-Loschi)
+[![CV](https://img.shields.io/badge/Currículo-4285F4?style=flat-square&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
 
 </div>
 
+---
 
-# Eu sou o Felipe Silva Loschi 👋
+## Sobre mim
 
-🎓 Cursando **Engenharia de Software** no **Inatel** (7° período).
+Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-voluntário no **Cas@Viva**, onde ensinei C++ e Python para alunos do ensino público. Focado em construir uma base sólida em **Ciência de Dados** e **Machine Learning**, com objetivo de seguir para um mestrado após a graduação.
 
-💻 Experiência com **C++**, **Python** e **Java**.
-
-📚 Focado em **Ciência de Dados**, **Machine Learning**, **IA** e **Back-end**.
-
-🤝 Ex-voluntário no **Cas@Viva**.
-
-🧠 Aprofundando conhecimentos em **Python**, **Data Science** e **Machine Learning**.
+> *Quando não estou codando, estou lendo ou acompanhando Real Madrid e Flamengo* ⚽📖
 
 ---
 
-## Habilidades
+## Stack Técnica
 
-- **Linguagens de Programação**:
+**Linguagens**
 
-![Python](https://img.shields.io/badge/-Python-blue)
-![Java](https://img.shields.io/badge/-Java-red)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![C++](https://img.shields.io/badge/-C++-blue)
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![SQL](https://img.shields.io/badge/-SQL-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Loschi&layout=compact&hide_title=true)
+**Data Science & ML**
 
-- **Ambientes de Desenvolvimento**:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Falcon](https://img.shields.io/badge/Falcon-000000?style=for-the-badge&logo=falcon&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Bancos de Dados**
 
-- **Áreas de Interesse**: Ciência de Dados, Inteligência Artificial, Machine Learning e Engenharia de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+**Ferramentas**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projetos em Destaque 🚀
+
+### 🚢 [Titanic - Machine Learning from Disaster](https://github.com/F-Loschi/Titanic)
+> Competição do Kaggle — classificação de sobreviventes do Titanic
+
+- Feature Engineering com `GroupSize`, `FarePerPerson`, `FamilySizeLabel` e outras
+- Comparação entre Random Forest, XGBoost, SVM, Voting e Stacking Classifiers
+- Otimização de hiperparâmetros via GridSearchCV
+- **Melhor score no Kaggle: 0.77511**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square)
+
+---
+
+### 📊 [Projetos de Data Science](https://github.com/F-Loschi/Projetos-de-Python-DS)
+> Notebooks explorando conceitos de Data Science com datasets reais
+
+- Análise exploratória de dados e visualizações
+- Aplicação de algoritmos de machine learning supervisionado
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
 ## Experiência
 
-- **Monitor de Pré Cálculo, Cálculo 1, 2 e 3, Probabilidade e Processos Estocásticos, Paradigmas da Programação, Interação Homem-Máquina** - Inatel
-- **Trabalho Voluntário - Cas@Viva**: Ensino de C++, Python e Soft Skills para crianças do 9° ano da rede pública.
+- **Monitor** de Pré Cálculo, Cálculo 1, 2 e 3, Probabilidade e Processos Estocásticos, Paradigmas da Programação, Interação Homem-Máquina e Programação Orientada a Objetos — Inatel
+- **Voluntário — Cas@Viva**: Ensino de C++, Python e Soft Skills para alunos do 9° ano da rede pública
 
 ---
 
-## Projetos Destacados 🚀
+## Certificações 🎓
 
-Aqui estão alguns dos meus repositórios mais interessantes, que demonstram minhas habilidades em desenvolvimento e meu interesse por novas tecnologias:
-
-### 1. **[Projeto de Data Science](https://github.com/F-Loschi/Projetos-de-Python-DS)**
-- **Descrição**: Conjunto de notebooks e scripts desenvolvidos para explorar conceitos de Data Science, incluindo análise exploratória de dados, visualização e modelagem estatística.
-- **Tecnologias**: ![Python](https://img.shields.io/badge/-Python-blue) ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
-- **Destaques**:
-  - Análise exploratória de datasets reais
-  - Visualizações interativas e informativas
-  - Aplicação de algoritmos de machine learning supervisionado
-- **Links**:
-  - 🔗 [Repositório no GitHub](https://github.com/F-Loschi/Projetos-de-Python-DS)
-
-
-### 2. **[C06-POO](https://github.com/F-Loschi/C06-POO)**
-   - **Descrição**: Repositório dedicado à matéria de Programação Orientada a Objetos (POO) com Java. Contém códigos, resumos e exemplos práticos de conceitos como herança, polimorfismo e encapsulamento.
-   - **Tecnologias**: ![Java](https://img.shields.io/badge/-Java-red)
-   - **Destaques**:
-     - Código **organizado e modular**, seguindo os princípios de POO.
-     - Exemplos práticos com **comentários explicativos**.
-     - Resumos detalhados das aulas para facilitar o aprendizado.
-   - **Link**: [Repositório no GitHub](https://github.com/F-Loschi/C06-POO)
+- [Formação em Modelagem de Dados](https://cursos.alura.com.br/degree/certificate/33862e2d-7103-48c6-9f79-da1bfa0370cd?lang=pt_BR) — Alura
+- [Python para Data Science](https://cursos.alura.com.br/degree/certificate/35c86fa9-ee76-4ee1-bf64-01d717efc4fa?lang=pt_BR) — Alura
+- [Outros certificados](https://cursos.alura.com.br/user/f-s-loschi/fullCertificate/7cb0b08975869edd5a4d5798a567afef) — Alura
 
 ---
 
-## Hobbies
-
-- 📖 Ler
-- ⚽ Assistir aos jogos do **Real Madrid** e **Flamengo**
-
----
-
-## Objetivos
-
-- Continuar me aprofundando em **Python**, **Data Science** e **IA**.
-- Manter um bom desempenho na faculdade.
-- Seguir com um **mestrado** após a graduação e continuar me aprimorando nas áreas que amo.
-
----
-
-## Certificações e Cursos 🎓
-
-- **[Formação em Modelagem de Dados](https://cursos.alura.com.br/degree/certificate/33862e2d-7103-48c6-9f79-da1bfa0370cd?lang=pt_BR)** - Alura
-- **[Python para Data Science](https://cursos.alura.com.br/degree/certificate/35c86fa9-ee76-4ee1-bf64-01d717efc4fa?lang=pt_BR)** - Alura
-- **[Outros certificados da Alura(SQL, Python, etc)](https://cursos.alura.com.br/user/f-s-loschi/fullCertificate/7cb0b08975869edd5a4d5798a567afef)** - Alura
-
----
-
-## Contato
-
-<div align="center">
-
-### Conecte-se comigo! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-loschi/)  
-[![Email](https://img.shields.io/badge/Email-felipe.loschi%40ges.inatel.br-%23333?style=for-the-badge&logo=gmail)](mailto:felipe.loschi@ges.inatel.br)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F-Loschi)  
-[![CV](https://img.shields.io/badge/Veja%20meu%20CV-4285F4?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
-
-</div>
-
-
-
-<div align="center">
-
-### 🔥 Minhas Estatísticas no GitHub 🔥
-
-![GitHub Streak](https://streak-stats.vercel.app/?user=F-Loschi&theme=github-dark-blue&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Loschi&show_icons=true&theme=github_dark&count_private=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=F-Loschi&theme=github-compact)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=F-Loschi)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
-
-</div>
-
-
-
----
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&redirect=true)
 
-</div>
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF do Real Madrid" width="4000">
 
-
+</div>
