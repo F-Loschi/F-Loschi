@@ -76,14 +76,22 @@ Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-
 
 ---
 
-### 📊 [Projetos de Data Science](https://github.com/F-Loschi/Projetos-de-Python-DS)
-> Notebooks explorando conceitos de Data Science com datasets reais
+### 🏠 [Previsão de Preços de Imóveis com Redes MLP](https://github.com/F-Loschi/real-estate-mlp-predictor)
+> Fusão de dados físicos dos imóveis com indicadores socioeconômicos regionais para estimação de preço de residências via rede neural profunda
 
-- Análise exploratória de dados e visualizações
-- Aplicação de algoritmos de machine learning supervisionado
+- Merge de dois datasets via zipcode, unindo características físicas com dados demográficos regionais
+- Plotagem de relações, distribuições e boxplot
+- Seleção de features via correlação de Spearman com exceções justificadas por domínio
+- Arquitetura MLP profunda (256→128→64→32) com Early Stopping e transformação logarítmica no target
+- **R² de 0.85 no conjunto de teste**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 ---
 
