@@ -29,71 +29,28 @@ Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-
 
 ## Stack Técnica
 
-**Linguagens**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sklearn,tensorflow,mysql,mongodb,cassandra,git,vscode,pycharm&perline=12" alt="Python, Java, C++, JavaScript, Scikit-learn, TensorFlow, MySQL, MongoDB, Cassandra, Git, VS Code, PyCharm">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
-
-**Bancos de Dados**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-
-**Ferramentas**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
 ---
 
-## Projetos em Destaque 🚀
+## 📂 Projetos em Destaque
 
-### 🚢 [Titanic - Machine Learning from Disaster](https://github.com/F-Loschi/Titanic)
-> Competição do Kaggle — classificação de sobreviventes do Titanic
-
-- Feature Engineering com `GroupSize`, `FarePerPerson`, `FamilySizeLabel` e outras
-- Comparação entre Random Forest, XGBoost, SVM, Voting e Stacking Classifiers
-- Otimização de hiperparâmetros via GridSearchCV
-- **Melhor score no Kaggle: 0.77511**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square)
-
----
-
-### 🏠 [Previsão de Preços de Imóveis com Redes MLP](https://github.com/F-Loschi/real-estate-mlp-predictor)
-> Fusão de dados físicos dos imóveis com indicadores socioeconômicos regionais para estimação de preço de residências via rede neural profunda
-
-- Merge de dois datasets via zipcode, unindo características físicas com dados demográficos regionais
-- Plotagem de relações, distribuições e boxplot
-- Seleção de features via correlação de Spearman com exceções justificadas por domínio
-- Arquitetura MLP profunda (256→128→64→32) com Early Stopping e transformação logarítmica no target
-- **R² de 0.85 no conjunto de teste**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+| Projeto | Descrição | Resultado | Stack |
+| :--- | :--- | :---: | :--- |
+| **[Titanic: Classificação de Sobreviventes](https://github.com/F-Loschi/Titanic)** | Competição do Kaggle com feature engineering, comparação de RF, XGBoost, SVM, Voting e Stacking e tuning via GridSearchCV. | Acurácia **0.77511** | `Python` `Scikit-learn` `XGBoost` |
+| **[Previsão de Preços de Imóveis](https://github.com/F-Loschi/real-estate-mlp-predictor)** | MLP profunda (256→128→64→32) que une características físicas dos imóveis a indicadores socioeconômicos da região. | R² **0.85** | `Python` `TensorFlow` `Pandas` `Scikit-learn` |
 
 ---
 
@@ -109,6 +66,14 @@ Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-
 - [Formação em Modelagem de Dados](https://cursos.alura.com.br/degree/certificate/33862e2d-7103-48c6-9f79-da1bfa0370cd?lang=pt_BR) — Alura
 - [Python para Data Science](https://cursos.alura.com.br/degree/certificate/35c86fa9-ee76-4ee1-bf64-01d717efc4fa?lang=pt_BR) — Alura
 - [Outros certificados](https://cursos.alura.com.br/user/f-s-loschi/fullCertificate/7cb0b08975869edd5a4d5798a567afef) — Alura
+
+---
+
+## 🏙️ Minha Cidade de Contribuições
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfico de contribuições em 3D no formato de uma cidade isométrica">
+</div>
 
 ---
 
