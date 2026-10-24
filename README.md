@@ -4,7 +4,7 @@
 
 # Felipe Silva Loschi
 
-**Engenharia de Software · Inatel (7° período)**
+**Engenharia de Software · Inatel (8° período)**
 
 Apaixonado por **Data Science**, **Machine Learning** e **Engenharia de Dados** — transformando dados em decisões e código em soluções.
 
@@ -114,10 +114,16 @@ Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake.svg">
+</picture>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&redirect=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF do Real Madrid" width="4000">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel art de um setup gamer com tema de Mario" width="100%">
 
 </div>
