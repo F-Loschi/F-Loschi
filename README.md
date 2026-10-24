@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF Hello World" width="350">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/id_card_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/id_card_light.svg">
+  <img src="assets/id_card_light.svg" width="100%" alt="Card estilo terminal com informações sobre Felipe Silva Loschi">
+</picture>
 
-# Felipe Silva Loschi
+<br>
 
-**Engenharia de Software · Inatel (8° período)**
-
-Apaixonado por **Data Science**, **Machine Learning** e **Engenharia de Dados** — transformando dados em decisões e código em soluções.
-
-Atualmente aprofundando conhecimentos em ML com o curso [Python do básico ao Data Science](https://www.youtube.com/@teomewhy) do Téo Calvo.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-loschi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipe.loschi@ges.inatel.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F-Loschi)
-[![CV](https://img.shields.io/badge/Currículo-4285F4?style=flat-square&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing)
+<a href="https://www.linkedin.com/in/felipe-silva-loschi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:felipe.loschi@ges.inatel.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://docs.google.com/document/d/1eRbXcJMf7O2axeeEO8-1qIPJMEPXIACBZlIi9EtkhVY/edit?usp=sharing"><img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Currículo"></a>
 
 </div>
 
@@ -22,6 +19,8 @@ Atualmente aprofundando conhecimentos em ML com o curso [Python do básico ao Da
 ## Sobre mim
 
 Monitor universitário de Cálculo, Probabilidade e Programação no Inatel. Ex-voluntário no **Cas@Viva**, onde ensinei C++ e Python para alunos do ensino público. Focado em construir uma base sólida em **Ciência de Dados** e **Machine Learning**, com objetivo de seguir para um mestrado após a graduação.
+
+Atualmente aprofundando conhecimentos em ML com o curso [Python do básico ao Data Science](https://www.youtube.com/@teomewhy) do Téo Calvo.
 
 > *Quando não estou codando, estou lendo ou acompanhando Real Madrid e Flamengo* ⚽📖
 

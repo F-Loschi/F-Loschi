@@ -1,0 +1,42 @@
+name: Generate ID card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/id_card.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate ID card SVGs
+        run: |
+          pip install pillow
+          python scripts/id_card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets
+          if git commit -m "Update ID card"; then
+            git pull --rebase
+            git push
+          fi
