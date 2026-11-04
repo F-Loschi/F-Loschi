@@ -1,0 +1,41 @@
+name: Generate commit gym
+
+on:
+  schedule:
+    # 00:45 in Brazil, so the gym shows the new local day
+    - cron: "45 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/gym.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate gym SVG
+        run: python scripts/gym.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/gym.svg
+          if git commit -m "Update commit gym"; then
+            git pull --rebase
+            git push
+          fi

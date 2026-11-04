@@ -68,26 +68,32 @@ Atualmente aprofundando conhecimentos em ML com o curso [Python do básico ao Da
 
 ---
 
-## 🏙️ Minha Cidade de Contribuições
+## 🏋️ Minha Academia
 
+<details open>
+<summary><b>Academia de commits</b></summary>
+<br>
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfico de contribuições em 3D no formato de uma cidade isométrica">
+  <img src="assets/gym.svg" width="100%" alt="Academia em pixel art em que cada dia do gráfico de contribuições é uma barra, com mais carga nos dias com mais contribuições, e um painel com recorde, sequência e volume">
 </div>
+</details>
+
+<details>
+<summary><b>Minha academia de verdade</b></summary>
+<br>
+<div align="center">
+  <img src="assets/training.svg" width="100%" alt="Academia em pixel art com os dias de treino do último ano, total de treinos, semanas seguidas, tempo de treino e melhores cargas dos últimos 90 dias">
+  <br>
+  <sub>Dados do <a href="https://www.strava.com">Strava</a>, registrados com o <a href="https://www.hevyapp.com">Hevy</a>.</sub>
+</div>
+</details>
 
 ---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake.svg">
-  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/F-Loschi/F-Loschi/output/github-snake.svg">
-</picture>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lipe271308&redirect=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=F-Loschi&color=blue&style=flat-square)
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel art de um setup gamer com tema de Mario" width="100%">
 
 </div>

@@ -1,0 +1,43 @@
+name: Generate training card
+
+on:
+  schedule:
+    # 01:00 in Brazil, after the commit gym
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/training.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate training SVG
+        run: python scripts/training.py
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+
+      - name: Commit and push generated SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/training.svg
+          if git commit -m "Update training card"; then
+            git pull --rebase
+            git push
+          fi
